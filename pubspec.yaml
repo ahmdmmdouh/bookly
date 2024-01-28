@@ -32,6 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^2.0.9
+  font_awesome_icon_class: ^0.0.6
   get: ^4.6.6
 
 dev_dependencies:
@@ -79,4 +80,4 @@ flutter_assets:
   assets_path: assets
   output_path: lib/core/utils
   filename: assets.dart
-  field_prefix:
+  field_prefix: null
